@@ -1,4 +1,3 @@
-[Additive-Manufacturing-Course-Projects-README-With-Code.md](https://github.com/user-attachments/files/34592352/Additive-Manufacturing-Course-Projects-README-With-Code.md)
 # Additive Manufacturing | MSc Course Project Portfolio
 
 **Selected projects from MSc studies at Middle East Technical University (METU), Ankara, Türkiye (2015–2018)**
