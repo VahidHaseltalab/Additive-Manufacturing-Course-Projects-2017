@@ -57,7 +57,7 @@ Although these projects address complementary stages of an additive manufacturin
 
 ## About
 
-**Vahid Haseltalab, PhD**  
+**Vahid Haseltalab**  
 MSc in Mechanical Engineering, Middle East Technical University (2018)
 
 [GitHub](https://github.com/VahidHaseltalab) | [ORCID](https://orcid.org/0000-0003-2878-2203)
